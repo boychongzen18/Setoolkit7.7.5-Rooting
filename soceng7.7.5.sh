@@ -18,7 +18,7 @@ pkg install ruby
 
 pkg install php
 
-pkg install tar
+pkg install zip
 
 pkg install git
 
