@@ -1,11 +1,21 @@
-# Soceng Version 7.7.5 Akses Rooting
+# Setoolkit7.7.5 Rooting For Android
 
-My Youtube : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
+![be](https://raw.githubusercontent.com/boychongzen18/Setoolkit7.7.2-No-Rooting/master/soceng.jpg)
 
-My Website : http://hackingforlive.cf
 
-My Facebok : https://web.facebook.com/xroot.xroot.7
 
-Moto : Berbagi Itu Indah
+My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Regard Boychongzen aka Xroot
+Link Tutorial : https://youtu.be/giKNEB4aQeA
+
+My Website    : https://hackingforlive.wordpress.com
+
+My Facebok    : https://web.facebook.com/xroot.xroot.7
+
+My eMAIL      : hackingforlive@yahoo.com
+
+MyTeam HFL    : https://defacer.id/archive/team/hackingforlive
+
+# Moto : Berbagi Itu Indah
+
+# Regard Boychongzen aka Xroot
