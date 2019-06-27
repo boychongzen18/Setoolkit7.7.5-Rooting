@@ -1,12 +1,11 @@
 # Setoolkit7.7.5 Rooting For Android
 
+
 ![be](https://raw.githubusercontent.com/boychongzen18/Setoolkit7.7.2-No-Rooting/master/soceng.jpg)
-
-
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : https://youtu.be/giKNEB4aQeA
+Link Tutorial : 
 
 My Website    : https://hackingforlive.wordpress.com
 
